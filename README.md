@@ -36,12 +36,15 @@ This is a DIY CNC drawing machine that converts digital drawings into physical a
 - Drawing tool (pen, marker)
 - Power supply
 - CNC control software (e.g., GRBL, Universal Gcode Sender)
+- Processing.exe(https://processing.org/download)
+- Inkscape.exe(https://inkscape.org/release/inkscape-0.48/?latest=1)
 
 ## Installation
 1. Assemble the hardware (motors, frame, etc.).
 2. Install the necessary firmware on your microcontroller (Arduino, GRBL).
 3. Connect the control software and upload your G-code.
 4. Test the machine with simple designs.
+5. G-code extension into the Inkscape software installation extension folder.
 
 ## Usage
 1. Create or download G-code files for the design you want to draw.
@@ -56,4 +59,4 @@ We welcome contributions! Feel free to fork this repository, submit pull request
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions, issues, or suggestions, please open an issue on GitHub or contact us at [Your Email].
+For any questions, issues, go to this link https://www.youtube.com/watch?v=KsZn5lQo1DY
